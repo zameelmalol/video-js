@@ -1016,3 +1016,14 @@ https://github.com/videojs/video.js/blob/master/src/css/video-js.less */
   margin-right: auto !important;
   margin-top: 20px !important;
 }
+
+#overlay-z{
+  position: absolute;
+  font-size: 21px;
+  color: black;
+  background: white;
+  text-align: center;
+  top: 100px;
+  z-index: 2147483647;
+  left: 10%;
+}
