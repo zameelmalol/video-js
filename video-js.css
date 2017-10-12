@@ -1025,5 +1025,7 @@ https://github.com/videojs/video.js/blob/master/src/css/video-js.less */
   text-align: center;
   top: 100px;
   z-index: 2147483647;
-  left: 10%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
 }
